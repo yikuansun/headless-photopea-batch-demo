@@ -12,6 +12,6 @@
   "author": "Yikuan Sun",
   "license": "MIT",
   "dependencies": {
-    "headlessphotopea": "^1.1.0"
+    "headlessphotopea": "^1.1.1"
   }
 }
